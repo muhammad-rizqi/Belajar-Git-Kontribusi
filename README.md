@@ -13,6 +13,6 @@
 - d. git commit -m "komen terserah"
 - e. git push origin master
 - f. git pull origin master
-g. Kembali ke github kemudian reload dan liat perubahan yang terjadi 
+- g. Kembali ke github kemudian reload dan liat perubahan yang terjadi 
 7. Setelah data di push, kemudian lakukan pull request untuk mendapat izin bahwa data yang dipull akan di simpan di repository yang di fork tadi
 8. Selesai
