@@ -22,4 +22,5 @@
 2. git fetch upstream
 3. git merge upstream/nama_branch
 
-### Metode Pull
+# Referensi
+- https://rogerdudler.github.io/git-guide/index.id.html
