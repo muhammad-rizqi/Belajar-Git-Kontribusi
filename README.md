@@ -12,7 +12,14 @@
 - c. git status (untuk mengecek apakah ada perubahan"
 - d. git commit -m "komen terserah"
 - e. git push origin master
-- f. git pull origin master
-- g. Kembali ke github kemudian reload dan liat perubahan yang terjadi 
+- f. Kembali ke github kemudian reload dan liat perubahan yang terjadi 
 7. Setelah data di push, kemudian lakukan pull request untuk mendapat izin bahwa data yang dipull akan di simpan di repository yang di fork tadi
 8. Selesai
+
+## Mengabil Perubahan Repository Induk
+### Metode Fetch
+1. git remote add upstream https://github.com/gilamran/tsc-watch.git -> link github repository induk
+2. git fetch upstream
+3. git merge upstream/nama_branch
+
+### Metode Pull
