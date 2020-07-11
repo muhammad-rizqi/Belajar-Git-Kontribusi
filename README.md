@@ -16,7 +16,7 @@
 7. Setelah data di push, kemudian lakukan pull request untuk mendapat izin bahwa data yang dipull akan di simpan di repository yang di fork tadi
 8. Selesai
 
-## Mengabil Perubahan Repository Induk
+## Mengambil Perubahan Repository Induk
 ### Metode Fetch
 1. git remote add upstream https://github.com/gilamran/tsc-watch.git -> link github repository induk
 2. git fetch upstream
